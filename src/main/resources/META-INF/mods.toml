@@ -39,6 +39,6 @@ Adds Dynamic Trees compatibility to Mystical Biomes.
 [[dependencies.dtmysticalbiomes]]
     modId="mysticalbiomes"
     mandatory=true
-    versionRange="[1.16.4-0.0.0.3,)"
+    versionRange="[0.0.0.3,)"
     ordering="AFTER"
     side="BOTH"

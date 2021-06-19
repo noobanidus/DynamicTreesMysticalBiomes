@@ -12,7 +12,7 @@
     "select": { "name":  "mysticalbiomes:sprout_.*"},
     "apply": {
       "species": "oak",
-      "densit": [ 0.6 ],
+      "density": [ 0.6 ],
       "chance": 0.3
     }
   }
