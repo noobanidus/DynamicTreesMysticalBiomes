@@ -5,7 +5,7 @@ issueTrackerURL="https://github.com/Noobanidus/DynamicTreesMysticalBiomes/issues
 
 [[mods]]
 modId="dtmysticalbiomes"
-version="${file.jarVersion}"
+version="${version}"
 displayName="Dynamic Trees for TerraForged"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-mysticalbiomes"
 logoFile="dtt-logo.png"
